@@ -4,8 +4,8 @@
 
 Run following command in your terminal:
 
-1. git clone https://github.com/zhewangjoe/mini-flickr.git
-2. cd mini-flickr
+1. git clone https://github.com/alaliter/Flickr-by-Lina
+2. cd Flickr-by-Lina
 3. npm install ( if npm is not installed, install Node.js)
 4. bower install ( if bower is not installed, run "npm install -g bower")
 5. Apply a Flickr api key at https://www.flickr.com/services/api/misc.api_keys.html

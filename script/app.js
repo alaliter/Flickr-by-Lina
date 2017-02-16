@@ -1,3 +1,6 @@
+/**
+ * Created by lin on 17/2/15.
+ */
 var app = angular.module("miniFlickr", ['akoenig.deckgrid', 'me-lazyload']);
 
 app.controller("PhotoCtrl", ["$http", "$scope", "$filter", function ($http, $scope, $filter) {

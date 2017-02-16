@@ -1,6 +1,5 @@
 var flickrApi = require('flickrapi');
 var flickrOptions = {
-    //put your flickr api key here
     api_key: "b0e248e8359bea9e28e5f586f4515507"
 };
 
