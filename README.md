@@ -1,15 +1,9 @@
 # Mini-Flickr
+Using Javascript, AngularJS, NodeJS, ES5, Bower and so on
 
 ##### How to install this project
 
-Run following command in your terminal:
-
-1. git clone https://github.com/alaliter/Flickr-by-Lina
-2. cd Flickr-by-Lina
-3. npm install ( if npm is not installed, install Node.js)
-4. bower install ( if bower is not installed, run "npm install -g bower")
-5. Apply a Flickr api key at https://www.flickr.com/services/api/misc.api_keys.html
-6. Put your Flickr api key in file service/flickrService.js
-7. node server.js
-
-Now you should be able to access the project by going to http://localhost:3000 in your browser.# Flickr-by-Lina
+1. first git clone https://github.com/alaliter/Flickr-by-Lina
+2. install npm and bower
+3. then run server
+4. access the project by going to http://localhost:3000 in your browser.# Flickr-by-Lina
